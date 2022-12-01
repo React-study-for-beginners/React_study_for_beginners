@@ -18,5 +18,7 @@
 const input = require("fs").readFileSync(0).toString().split("\n");
 
 const number = input[1].split(" ");
+const max = Math.max(...number);
+const min = Math.min(...number);
 
-console.log(`${Math.min(...number)} ${Math.max(...number)}`);
+console.log(`${min} ${max}`);
