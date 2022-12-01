@@ -62,8 +62,11 @@ function solution(letter) {
     "--..": "z",
   };
 
-  return letter
-    .split(" ")
-    .map((m) => morse[m])
-    .join("");
+  const decode = letter.split(" ").map((alphabet) => morse[alphabet]);
+  const answer = decode.join("");
+
+  return answer;
 }
+
+// 한 줄 코드
+// letter.split(" ").map((alphabet) => morse[alphabet]).join("");
