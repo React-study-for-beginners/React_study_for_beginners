@@ -26,7 +26,19 @@
 
 const input = require("fs").readFileSync(0).toString().split("\n");
 
-let x = input[0];
-let y = input[1];
+const x = input[0];
+const y = input[1];
+let answer;
 
-console.log(x > 0 ? (y > 0 ? 1 : 4) : y < 0 ? 3 : 2);
+if (x > 0) {
+  y > 0 ? (answer = 1) : (answer = 4);
+}
+
+if (x < 0) {
+  y > 0 ? (answer = 2) : (answer = 3);
+}
+
+console.log(answer);
+
+// 한 줄 코드
+// console.log(x > 0 ? (y > 0 ? 1 : 4) : y < 0 ? 3 : 2);
