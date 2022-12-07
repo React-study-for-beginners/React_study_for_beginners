@@ -99,7 +99,7 @@
 <br>
 <br>
 
-🔖 **츨처**
+🔖 **출처**
 <br>
 <a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=javascript">프로그래머스</a>
 <br>
