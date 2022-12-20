@@ -17,6 +17,7 @@
 | 스터디장 | 스터디원 | 스터디원 |
 | -------- | -------- | -------- |
 | 하이     | 쩨로     | 믓째잉   |
+| feb-dain | YJzero   | oxxun21  |
 
 <br>
 <br>
@@ -148,6 +149,38 @@
 >
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/733f04557977e7ff361d89a1112049c2956c1db4">
 > - 프로그래머스 '문자열 밀기' 문제
+> </a>
+
+<br>
+<br>
+
+### 섹션 5 - React 기본 - 간단한 일기장 프로젝트 (2022.12.14 ~ 2022.12.28)
+
+- <a href="https://github.com/feb-dain/React_study_for_beginners/tree/feb-dain/diary_project">
+  <strong>간단한 일기장 프로젝트</strong>
+  </a>
+  <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/5adb42cc05243bb468d51c142048147e314c3efc">
+> - 프로그래머스 '없는 숫자 더하기' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/56287cff7a5df0ec6b6cb5b5c4703a65d8db2c73">
+> - 프로그래머스 '배열 두배 만들기' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/116e0064c07b2d843cc84cba05bad6f3b8f6e015">
+> - 프로그래머스 '나머지 구하기' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/98b8f36e51d525eb085c421b99012d80790d9975">
+> - 프로그래머스 '합성수 찾기' 문제
 > </a>
 
 <br>
