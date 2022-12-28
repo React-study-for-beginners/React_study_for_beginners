@@ -182,6 +182,54 @@
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/98b8f36e51d525eb085c421b99012d80790d9975">
 > - 프로그래머스 '합성수 찾기' 문제
 > </a>
+> <br>
+> <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/6cc0b2a505f9093f02760401f20ee93d880c4242">
+> - 프로그래머스 '옷가게 할인 받기' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/12b652d8308691afda9e81247e36a9175d8833d6">
+> - 프로그래머스 '2차원으로 만들기' 문제
+> </a>
+> <br>
+> <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/c93453320ded24a2faa054efd99c87dbd9094638">
+> - 프로그래머스 '369 게임' 문제
+> </a>
+> <br>
+> <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/714e38a11c22cfb7aa72f796488024b6f99398a2">
+> - 프로그래머스 '이진수 더하기' 문제
+> </a>
+> <br>
+> <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/edcdd186477b3f375136b3a43cccf3f5814a24a4">
+> - 프로그래머스 '7의 개수' 문제
+> </a>
+> <br>
+> <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/ab251cd3a0519b23d66f67e2ad5a34a8beee6893">
+> - 프로그래머스 '아이스 아메리카노' 문제
+> </a>
+> <br>
+> <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/edcdd186477b3f375136b3a43cccf3f5814a24a4">
+> - 프로그래머스 '머쓱이보다 키 큰 사람' 문제
+> </a>
+> <br>
+> <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/c785d809f8921a10239360e3aca9d1a90878a735">
+> - 프로그래머스 '가까운 수' 문제
+> </a>
 
 <br>
 <br>
