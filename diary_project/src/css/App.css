@@ -1,0 +1,10 @@
+:root {
+  --main-color: #d6c7f5;
+}
+
+html,
+body,
+textarea {
+  font-size: 62.5%;
+  font-family: "Noto Sans KR", sans-serif;
+}
