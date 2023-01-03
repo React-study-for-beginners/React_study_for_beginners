@@ -184,7 +184,7 @@
 > </a>
 > <br>
 > <br>
-
+>
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/6cc0b2a505f9093f02760401f20ee93d880c4242">
 > - 프로그래머스 '옷가게 할인 받기' 문제
 > </a>
@@ -196,39 +196,83 @@
 > </a>
 > <br>
 > <br>
-
+>
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/c93453320ded24a2faa054efd99c87dbd9094638">
 > - 프로그래머스 '369 게임' 문제
 > </a>
 > <br>
 > <br>
-
+>
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/714e38a11c22cfb7aa72f796488024b6f99398a2">
 > - 프로그래머스 '이진수 더하기' 문제
 > </a>
 > <br>
 > <br>
-
+>
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/edcdd186477b3f375136b3a43cccf3f5814a24a4">
 > - 프로그래머스 '7의 개수' 문제
 > </a>
 > <br>
 > <br>
-
+>
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/ab251cd3a0519b23d66f67e2ad5a34a8beee6893">
 > - 프로그래머스 '아이스 아메리카노' 문제
 > </a>
 > <br>
 > <br>
-
+>
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/edcdd186477b3f375136b3a43cccf3f5814a24a4">
 > - 프로그래머스 '머쓱이보다 키 큰 사람' 문제
 > </a>
 > <br>
 > <br>
-
+>
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/c785d809f8921a10239360e3aca9d1a90878a735">
 > - 프로그래머스 '가까운 수' 문제
+> </a>
+
+<br>
+<br>
+
+### 섹션 6 - React 실전 프로젝트 - 감정 일기장 만들기 (2022.12.28 ~ 2023.01.04)
+
+- <a href="https://github.com/feb-dain/React_study_for_beginners/tree/feb-dain/emotion_diary_project">
+  <strong>감정 일기장 프로젝트</strong>
+  </a>
+  <br>
+
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/4929be5d481a2ee904243823339b0f283b12925e">
+> - 프로그래머스 '팩토리얼' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/cf50977de62cf16cbf8e11f4c69fd50f57bbca8c">
+> - 프로그래머스 '외계인 사전' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/9ea0be99ac25f5415dce4e382bd6a5fc14ec158e">
+> - 프로그래머스 '암호 해독' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/8edb848d69740d4627fbf5072c55c58914f31650">
+> - 프로그래머스 '한 번만 등장한 문자' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/e47e1209ceefaa2dfeda21ebfadd6f93e58241ef">
+> - 프로그래머스 '크기가 작은 부분문자열' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/c5c56e81d5362c3077cde326f613266d15e87277">
+> - 프로그래머스 '햄버거 만들기' 문제
 > </a>
 
 <br>
