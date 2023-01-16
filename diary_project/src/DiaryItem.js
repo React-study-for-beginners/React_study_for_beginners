@@ -83,7 +83,7 @@ const DiaryItem = ({ id, author, content, emotion, created_date }) => {
         작성자 : {author} &nbsp;|&nbsp; 감정 점수 : {emotion}
       </Info>
       <br />
-      <Clock>작성 시간 : {new Date(created_date).toLocaleDateString()}</Clock>
+      <Clock>작성 시간 : {new Date(created_date).toLocaleString()}</Clock>
       <Content>
         {isEditing ? (
           <Textarea
