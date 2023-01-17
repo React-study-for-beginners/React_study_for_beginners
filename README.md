@@ -234,9 +234,9 @@
 <br>
 <br>
 
-### 섹션 6 - React 실전 프로젝트 - 감정 일기장 만들기 (2022.12.28 ~ 2023.01.04)
+### 섹션 6 - React 실전 프로젝트 - 감정 일기장 만들기 (2022.12.28 ~ 2023.01.18)
 
-- <a href="https://github.com/feb-dain/React_study_for_beginners/tree/feb-dain/emotion_diary_project">
+- <a href="https://github.com/feb-dain/React_study_for_beginners/tree/feb-dain/emotion_diary_main_project">
   <strong>감정 일기장 프로젝트</strong>
   </a>
   <br>
@@ -273,6 +273,42 @@
 >
 > <a href="https://github.com/feb-dain/React_study_for_beginners/commit/c5c56e81d5362c3077cde326f613266d15e87277">
 > - 프로그래머스 '햄버거 만들기' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/0d3b250004f7ea94f2090ce9c3a99862b1e5c3fc">
+> - 프로그래머스 '부족한 금액 계산하기' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/62d69d83a5ffd7b2cef88015ce286b152fb432fc">
+> - 프로그래머스 '공 던지기' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/cb434365f3bc803dcc8fba996b889941d3c36206">
+> - 프로그래머스 '컨트롤 제트' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/262022f8fd8dc7b9943e902f5814fc977828b6ab">
+> - 프로그래머스 '숨어있는 숫자의 덧셈 (2)' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/70f6efd1b78a022bc93236a437d83b5e5812583f">
+> - 프로그래머스 '배열의 유사도' 문제
+> </a>
+> <br>
+> <br>
+>
+> <a href="https://github.com/feb-dain/React_study_for_beginners/commit/b182c9de14131fd12f386a51f4335e2c66e60728">
+> - 프로그래머스 '삼총사' 문제
 > </a>
 
 <br>
